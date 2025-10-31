@@ -1,3 +1,7 @@
+// CS 241: Project 2
+// Implements the BST library class to be used with BSTExample
+// Created by Liz, Aleks, and Safwan
+
 public class BST {
     
     // Inner Node class

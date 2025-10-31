@@ -1,7 +1,7 @@
-## CS 241: Project 2
-# Created by: Liz, Aleks & Safwan
+# CS 241: Project 2
+## Created by: Liz, Aleks & Safwan
 
-# Compilation Instructions:
+## Compilation Instructions:
 
 Download the BST.java library class and run it using BSTExample.java to verify correct implementation.
 
